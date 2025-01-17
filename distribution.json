@@ -180,9 +180,20 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 221,
+            "size": 1789,
             "url": "https://github.com/mchdistro/IceTown/raw/main/servers/IceTown-1.20.1/files/options.txt",
             "path": "options.txt"
+          }
+        },
+        {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 8614,
+            "url": "https://github.com/mchdistro/IceTown/raw/main/servers/IceTown-1.20.1/files/servers.dat",
+            "MD5": "2d699ea7da3ed74f1f0166423fb1a905",
+            "path": "servers.dat"
           }
         },
         {
