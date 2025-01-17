@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///D:/Coding/Projects/mchlauncher/Distro/IceTown/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "아생타운",
+    "description": "Minecraft 1.20.1 (Fabric v0.16.10)",
+    "icon": "https://github.com/mchdistro/IceTown/raw/main/server-icon.png",
+    "address": "Iceearth843.alcl.kr",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": true,
+    "autoconnect": false
+  },
+  "fabric": {
+    "version": "0.16.10"
+  },
+  "untrackedFiles": []
+}
