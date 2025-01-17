@@ -166,6 +166,26 @@
           }
         },
         {
+          "id": "iris.properties",
+          "name": "iris.properties",
+          "type": "File",
+          "artifact": {
+            "size": 286,
+            "url": "https://github.com/mchdistro/IceTown/raw/main/servers/IceTown-1.20.1/files/config/iris.properties",
+            "path": "config/iris.properties"
+          }
+        },
+        {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 221,
+            "url": "https://github.com/mchdistro/IceTown/raw/main/servers/IceTown-1.20.1/files/options.txt",
+            "path": "options.txt"
+          }
+        },
+        {
           "id": "ComplementaryReimagined_r5.3.zip",
           "name": "ComplementaryReimagined_r5.3.zip",
           "type": "File",
